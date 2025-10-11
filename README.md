@@ -38,7 +38,22 @@ The purpose of this program is to learn how to work with real data, clean it, an
 
 **Programming Language & Libraries**
 - **Python 3.10+**
+---
 
+## Useful Websites
+
+* [Yahoo Finance](https://finance.yahoo.com/)  
+* [yfinance Documentation](https://pypi.org/project/yfinance/)  
+* [Matplotlib Gallery](https://matplotlib.org/stable/gallery/index.html)  
+* [Pandas Documentation](https://pandas.pydata.org/docs/)  
+
+---
+
+## Future Work
+
+* Add more stocks automatically from a list or file  
+* Include machine learning predictions for stock trends  
+* Create an interactive dashboard (e.g., Streamlit or Dash)
 Install all dependencies using the command below:
 
 ```bash
