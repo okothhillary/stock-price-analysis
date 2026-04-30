@@ -14,7 +14,7 @@ The purpose of this program is to learn how to work with real data, clean it, an
 
 ## Data Analysis Results
 
-### Questions and Answers
+### Questions and Answers:
 
 1. **What is the average annual return and volatility of each stock over the last 5 years?**  
    - AAPL: Around 22% return, moderate volatility  
