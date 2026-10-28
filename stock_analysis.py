@@ -326,9 +326,6 @@ def run_pipeline(tickers: List[str]):
     generate_report(metrics, list(processed.keys()), REPORT_PATH)
     print("\n Pipeline complete. Check the `output` folder.")
 
-
-# Main Entry
-
 if __name__ == "__main__":
     print("Starting stock analysis project...")
     tickers = sys.argv[1:] if len(sys.argv) > 1 else TICKERS
